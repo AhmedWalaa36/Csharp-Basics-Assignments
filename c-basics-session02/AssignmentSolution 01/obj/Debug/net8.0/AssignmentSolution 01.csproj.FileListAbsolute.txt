@@ -1,0 +1,28 @@
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.exe
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.deps.json
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.runtimeconfig.json
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.pdb
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\refint\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.pdb
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\AssignmentSolution 01\AssignmentSolution 01\obj\Debug\net8.0\ref\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.exe
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.deps.json
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.runtimeconfig.json
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\bin\Debug\net8.0\AssignmentSolution 01.pdb
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\refint\AssignmentSolution 01.dll
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.pdb
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\AssignmentSolution 01.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\ASP.NET\ASP.Net Cycle 48\C# Basics\Session 02\Assignment\c-basics-session02\AssignmentSolution 01\obj\Debug\net8.0\ref\AssignmentSolution 01.dll
